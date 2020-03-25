@@ -1,3 +1,3 @@
 # Kotlin Calculator App
 
-Implement calculator by kotlin with exp4j
+Implement calculator by kotlin and exp4j
